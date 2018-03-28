@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 /crud.iml
+/src/main/python/mysite/db.sqlite3
