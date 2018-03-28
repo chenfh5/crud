@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+<ul>
+  {% for book in books %}
+  <a href="{% url 'update_book' book.id %}">
+    <li> {{ book.author }} << {{ book.title }}>> </li>
+  </a>
+  {% endfor %}
+</ul>
+<a href="{% url 'create_book' %}">Create/Update one Book</a>
+</body>
+</html>

@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 /crud.iml
+**/db.sqlite3
+**/migrations/
+**/*.pyc
