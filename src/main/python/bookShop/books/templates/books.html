@@ -2,17 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>书架</title>
 </head>
 <body>
 
 <ul>
   {% for book in books %}
   <a href="{% url 'update_book' book.id %}">
-    <li> {{ book.author }} << {{ book.title }}>> </li>
+    <li> {{ book.author }} << {{ book.title }}>></li>
   </a>
   {% endfor %}
 </ul>
-<a href="{% url 'create_book' %}">Create/Update one Book</a>
+
+<button>
+  <a href="{% url 'create_book' %}">Create one Book</a>
+</button>
+
 </body>
 </html>

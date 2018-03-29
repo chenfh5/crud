@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>封面</title>
 </head>
 <body>
 
@@ -14,9 +14,11 @@
   <button type="Submit">Save</button>
 </form>
 
-{% if book %}
-<a href="{% url 'delete_book' book.id %}">Delete</a>
-{% endif %}
+<p>
+  {% if book %}
+  <a href="{% url 'delete_book' book.id %}">Delete this book?</a>
+  {% endif %}
+</p>
 
 </body>
 </html>
