@@ -19,11 +19,13 @@ A CRUD Framework
 
 ![Django tutorial02 snapshot](https://upload-images.jianshu.io/upload_images/2189341-e3810eb6effaaab3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![list_books](https://upload-images.jianshu.io/upload_images/2189341-c8d72571becd39cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![list_books](https://upload-images.jianshu.io/upload_images/2189341-aab81f5b2608070b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![create/update a book](https://upload-images.jianshu.io/upload_images/2189341-f38003794e47c742.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![create/update a book](https://upload-images.jianshu.io/upload_images/2189341-db6ed6819680f6c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![delete a book](https://upload-images.jianshu.io/upload_images/2189341-124346ecd2d9d9c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![delete a book](https://upload-images.jianshu.io/upload_images/2189341-046e875d104b3e49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![confirm to delete a book](https://upload-images.jianshu.io/upload_images/2189341-25e6f991dfc5942e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![admin](https://upload-images.jianshu.io/upload_images/2189341-a516b9745be820f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
